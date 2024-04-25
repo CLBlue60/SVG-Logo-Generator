@@ -1,6 +1,16 @@
 {
+  "name": "challenge-8",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^29.6.1"
+    "jest": "^29.5.0"
   }
 }
